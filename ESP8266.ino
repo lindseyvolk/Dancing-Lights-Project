@@ -1,6 +1,6 @@
-// This is the code that was uploaded to the ESP8266. It decodes a value that it receieves through Serial. 
+// This is the code that was uploaded to the ESP8266. It decodes a value that it receives through Serial. 
 // It sends this information to the LED matrix.
-// It connects the ESP8266 to a cellphone. It controls the LED matrix through WIFI communication.
+// It connects the ESP8266 to a cell phone. It controls the LED matrix through WIFI communication.
 
 // Libraries
 #include "math.h"
